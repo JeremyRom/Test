@@ -1,0 +1,9 @@
+sf_mirror_attempt
+"npppluginmgr:netcologne:xml/plugins.md5.txt"
+downloads.sourceforge.net/
+1536
+3761984256
+30582864
+2565382014
+30582864
+*

@@ -1,0 +1,281 @@
+-------------------------------
+01.03.2017   10:03:24,29
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+creating NL KBS (dom01.kaba.grp) in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts ...
+creating folder "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)" ...
+copying file from \\dom01.kaba.grp\SYSVOL\dom01.kaba.grp\scripts\KBS\KBS-DFS\target_kbs_dom01.kaba.grp.lnk to "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\target.lnk" ...
+copying file from \\dom01.kaba.grp\SYSVOL\dom01.kaba.grp\scripts\KBS\KBS-DFS\desktop.txt to "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\desktop.ini" ...
+setting attributes for folder "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)" ...
+setting attributes for file "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\target.lnk" ...
+setting attributes for file "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\desktop.ini" ...
+-
+01.03.2017   10:03:24,54 - done
+-------------------------------
+02.03.2017    7:06:50,30
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+02.03.2017    7:06:50,33 - done
+-------------------------------
+02.03.2017    8:01:42,53
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+02.03.2017    8:01:42,56 - done
+-------------------------------
+02.03.2017   12:14:17,76
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+02.03.2017   12:14:17,87 - done
+-------------------------------
+03.03.2017    7:02:46,26
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+03.03.2017    7:02:46,29 - done
+-------------------------------
+06.03.2017    7:07:14,70
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+06.03.2017    7:07:14,75 - done
+-------------------------------
+07.03.2017    7:05:49,52
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+07.03.2017    7:05:49,53 - done
+-------------------------------
+07.03.2017   13:37:34,40
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+07.03.2017   13:37:34,45 - done
+-------------------------------
+08.03.2017    7:05:37,30
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+08.03.2017    7:05:37,38 - done
+-------------------------------
+09.03.2017    6:59:41,32
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+09.03.2017    6:59:41,35 - done
+-------------------------------
+10.03.2017    7:13:31,72
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+10.03.2017    7:13:31,75 - done
+-------------------------------
+13.03.2017    7:09:33,09
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+13.03.2017    7:09:33,11 - done
+-------------------------------
+14.03.2017    7:08:04,50
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+14.03.2017    7:08:04,53 - done
+-------------------------------
+15.03.2017    7:27:32,01
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+15.03.2017    7:27:32,02 - done
+-------------------------------
+16.03.2017    7:05:09,32
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+16.03.2017    7:05:09,35 - done
+-------------------------------
+17.03.2017    7:01:15,77
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+17.03.2017    7:01:15,78 - done
+-------------------------------
+20.03.2017    7:03:45,10
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+20.03.2017    7:03:45,13 - done
+-------------------------------
+21.03.2017    6:59:35,22
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+21.03.2017    6:59:35,25 - done
+-------------------------------
+22.03.2017    7:06:14,70
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+22.03.2017    7:06:14,84 - done
+-------------------------------
+22.03.2017    8:25:52,92
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+22.03.2017    8:25:52,95 - done
+-------------------------------
+23.03.2017    6:59:06,54
+%LogonServer%:  \\KBSS0001
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+23.03.2017    6:59:06,59 - done
+-------------------------------
+24.03.2017    6:56:43,02
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+24.03.2017    6:56:43,07 - done
+-------------------------------
+27.03.2017    6:59:00,62
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+27.03.2017    6:59:00,69 - done
+-------------------------------
+28.03.2017    6:55:55,06
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+28.03.2017    6:55:55,10 - done
+-------------------------------
+04.04.2017    7:06:31,26
+%LogonServer%:  \\KBSS0002
+%UserName%:     jeremy.romer
+%ComputerName%: KBSN0147
+%AppData%:      C:\Users\jeremy.romer\AppData\Roaming
+-
+checking if NL already exists "C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KBS (dom01.kaba.grp)\." ...
+NL KBS (dom01.kaba.grp) already exists in C:\Users\jeremy.romer\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+-
+04.04.2017    7:06:31,39 - done

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+
+<head>
+
+
+
+
+
+<title>DXP Editing System</title>
+<link rel="icon" href="https://www.dormakaba.com/resource/blob/16/c72962562a7bf9145868dcbd115d3836/dormakaba-en-favicon.ico">
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,300,600" rel="stylesheet" type="text/css">
+<div style="background-color:#F4F4F4; border-bottom:1px solid #eee; padding-bottom:1px; padding-top:5px;">  
+
+<link rel="stylesheet" href="DXPEDITsys.css">
+
+<center> 
+<img src="images/dormakaba.png"  alt="Dormakaba">
+ 
+<h1>DXP Editing System</h1>
+
+<style>
+
+
+
+
+</style>
+
+
+<div class="services">
+<div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"> <a href="https://cms.dormakaba.net/blueprint/servlet/en"><img style="width: 140px; height: 140px;" src="images/blueprint.jpg" alt="blueprint" data-holder-rendered="true"></a>
+        <h3>Blueprint</h3>
+        
+      </div>
+      <div class="services">
+      <div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"><a href="https://cms.dormakaba.net/console/login"><img style="width: 140px; height: 140px;" src="images/Console.gif" alt="Console" data-holder-rendered="true"></a>
+        <h3>Console</h3>
+        
+      </div>
+      <div class="services">
+      <div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"><a href="https://cms.dormakaba.net/editor-webstart/"><img style="width: 140px; height: 140px;" src="images/SiteAdmin.jpg" alt="SiteAdmin" data-holder-rendered="true"></a>
+        <h3>Site Admin</h3>
+        
+      </div>
+      <div class="services">
+      <div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"><a href="https://cms.dormakaba.net/pcm/ws/productCatalog.wsdl"><img style="width: 140px; height: 140px;" src="images/PCMImportor.png" alt="PCMImportor" data-holder-rendered="true"></a>
+        <h3>PCM Importer</h3>
+        
+      </div>
+      <div class="services">
+      <div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"><a href="https://cms.dormakaba.net/studio/"><img style="width: 140px; height: 140px;" src="images/studio.jpg" alt="Studio" data-holder-rendered="true"></a>
+        <h3>Studio</h3>
+        
+      </div>
+      <div class="services">
+      <div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"><a href="https://cms.dormakaba.net/webdav"><img style="width: 140px; height: 140px;" src="images/WebDAV.png" alt="WebDAV" data-holder-rendered="true"></a>
+        <h3>WebDAV</h3>
+        
+      </div>
+          <div class="services">
+	  <div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"><a href="https://cms.dormakaba.net/blueprint/servlet/webguide"><img style="width: 140px; height: 140px;" src="images/WebGuide.png" alt="WebGuide" data-holder-rendered="true"></a>
+        <h3>WebGuide</h3> 
+       
+      </div>
+          <div class="services">
+	  <div class="col-lg-4 col-sm-12 text-center" style="padding-bottom:10px;"><a href="https://www.dormakaba.com/"><img style="width: 140px; height: 140px;" src="images/dormakabasite.png" alt="dormakabasite" data-holder-rendered="true"></a>
+        <h3>dormakaba</h3>
+
+
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+"Wiki-Syntax":http://www.redmine.org/projects/redmine/wiki/RedmineTextFormatting | "Wiki-Ext-Syntax":http://www.r-labs.org/projects/r-labs/wiki/Wiki_Extensions_en | "Wiki-Struktur":http://www.redmine.org/projects/redmine/wiki/RedmineWikis
+
+----
+
+*Alle Seiten*
+
+{{child_pages}} 
